@@ -1,7 +1,7 @@
 from tkinter import Tk, Entry, Label, Button, Text, END, LabelFrame, messagebox
 from RandomApp import RandomApp
 root = Tk()
-root.title("Spirituality")
+root.title("Psychic advisor")
 root.geometry("200x200")
 
 obj = RandomApp()
